@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+.divsize1{
+  width: 300px;
+  height: 300px;
+  background-color: aquamarine;
+  border-radius: 5%;
+  text-align: center;
+  margin: 10px;
+}
+
+.divsize2{
+  width: 300px;
+  height: 300px;
+  background-color: rgb(118, 123, 139);
+  border-radius: 5%;
+  text-align: center;
+  margin: 10px;
+}
+.divsize3{
+  width: 300px;
+  height: 300px;
+  background-color: rgb(67, 101, 171);
+  border-radius: 5%;
+  text-align: center;
+  margin: 10px;
+}
